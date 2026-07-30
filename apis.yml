@@ -1,8 +1,25 @@
 aid: loose-cubes
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/loose-cubes.png
 name: Loose Cubes
-description: Loose Cubes is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Loosecubes, Inc. was a membership-based marketplace often described as the "Airbnb for
+  shared office space" — it connected people looking for a place to work with companies that had vacant
+  desks and coworking space. Founded in 2010 in Brooklyn, New York by Campbell McKellar (Walmsley) and
+  Anna Thomas, it raised roughly $9M total, including a $7.8M Series A led by New Enterprise Associates
+  with Revolution Ventures and Battery Ventures participating. The company shut down and permanently
+  closed in late 2012. This profile was surfaced as a Battery Ventures portfolio lead; enrichment found
+  no live API surface — the business is defunct and the loosecubes.com domain is now held by an unrelated
+  owner.'
 url: https://raw.githubusercontent.com/api-evangelist/loose-cubes/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +27,27 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-defunct-note: 'Loosecubes, Inc. permanently closed in 2012; no API surface. loosecubes.com now resolves
+  to an unrelated third-party site.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Coworking
+- Real Estate
+- Marketplace
+- Workspace
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
