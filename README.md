@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Loose Cubes is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Loosecubes, Inc. was a membership-based marketplace often described as the "Airbnb for shared office space" — it connected people looking for a place to work with companies that had vacant desks and coworking space. Founded in 2010 in Brooklyn, New York by Campbell McKellar (Walmsley) and Anna Thomas, it raised roughly $9M total, including a $7.8M Series A led by New Enterprise Associates with Revolution Ventures and Battery Ventures participating. The company shut down and permanently closed in late 2012. This profile was surfaced as a Battery Ventures portfolio lead; enrichment found no live API surface — the business is defunct and the loosecubes.com domain is now held by an unrelated owner.
+
+**Areas:** Company · Co-Working · Real Estate · Marketplace · Workspace · Defunct
+
+## Loose Cubes on APIs.io (historical record)
+
+Everything profiled for Loose Cubes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/loose-cubes/](https://apis.io/providers/loose-cubes/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Loose Cubes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/loose-cubes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
